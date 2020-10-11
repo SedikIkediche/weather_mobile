@@ -1,0 +1,6 @@
+package com.ssquare.weather_mobile
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
