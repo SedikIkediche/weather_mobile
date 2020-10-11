@@ -3,7 +3,7 @@
 
 # weather_mobile
 
-It's A flutter app that gives you weather informaton in your current location.
+It's a flutter app that gives you weather informaton in your current location.
 
 ## Getting Started
 
