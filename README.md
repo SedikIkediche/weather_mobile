@@ -21,3 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Contributors
 
 Sedik Ikediche ikediche08@gmail.com
+
+## License & copyright
+
+Licensed under the Apache License 2.0 license
