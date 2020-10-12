@@ -15,8 +15,8 @@ class NetworkService {
       'http://dataservice.accuweather.com/forecasts/v1/daily/5day/';
   final String _hourlyForecastBaseUrl =
       'http://dataservice.accuweather.com/forecasts/v1/hourly/12hour/';
-  // final String _apiKey = 'JGHGL5GHXGrIdxgi3mNVGYX6HhuCt3W7';
-  final String _apiKey = 'R9ABLtWYqKDhl8FtUy4r8IRTqtMlj4Am';
+  final String _apiKey = 'your api key goes here';
+
   Future<dynamic> getLocationKEy(LocationData locationData) async {
     var responseJson;
     try {
